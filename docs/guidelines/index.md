@@ -1,5 +1,6 @@
 # Guidelines
 
+
 <br>
 
 1. Discord ToS & Guidelines
