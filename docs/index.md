@@ -6,6 +6,6 @@
 
 <br>
 
-![**. Content-Creator .**](https://dc.starcode-bom.abrdns.com/ContentCreator/)
+[![**. Content-Creator .**](https://dc.starcode-bom.abrdns.com/ContentCreator/)
 
 _.**(c) copyright 2026 bombblingm, starcode. All rights reserved**._
