@@ -9,7 +9,7 @@ function translateStaticElements() {
 
 async function loadLinks() {
     try {
-        const response = await fetch('links.json');
+        const response = await fetch('src-Database/MainSite-src/data.json');
         const meineLinks = await response.json();
         
         const container = document.getElementById("button-container");
