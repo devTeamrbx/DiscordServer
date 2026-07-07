@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premium Dashboard</title>
+    <link rel="stylesheet" href="src-Database/MainSite-src/style.css">
+</head>
+<body>
+
+    <button class="menu-trigger" id="menu-btn" aria-label="Menü öffnen">
+        <span></span>
+        <span></span>
+        <span></span>
+    </button>
+
+    <div class="overlay" id="overlay"></div>
+
+    <nav class="sidebar" id="sidebar">
+        <div class="sidebar-title">Navigation</div>
+        <div id="button-container"></div>
+        <div class="theme-section">
+            <button class="theme-toggle" id="theme-btn">
+                <span id="theme-icon">🌙</span> <span id="theme-text">Dark Mode</span>
+            </button>
+        </div>
+    </nav>
+
+    <main class="main-card">
+        <h1>Willkommen</h1>
+        <p class="subtitle">Öffne das Menü oben links, um deine Links zu sehen.</p>
+        <footer class="copyright">
+            &copy; <span id="year"></span> Dein Name. Alle Rechte vorbehalten.
+        </footer>
+    </main>
+
+    <script src="src-Database/MainSite-src/script.js"></script>
+</body>
+</html>
+
