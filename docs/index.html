@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Premium Dashboard</title>
-    <link rel="stylesheet" href="src-Database/MainSite-src/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -17,8 +17,7 @@
     <div class="overlay" id="overlay"></div>
 
     <nav class="sidebar" id="sidebar">
-        <div class="sidebar-title">Navigation</div>
-        <div id="button-container"></div>
+        <div class="sidebar-title" data-lang-de="Navigation" data-lang-en="Navigation">Navigation</div>
         <div class="theme-section">
             <button class="theme-toggle" id="theme-btn">
                 <span id="theme-icon">🌙</span> <span id="theme-text">Dark Mode</span>
@@ -27,14 +26,17 @@
     </nav>
 
     <main class="main-card">
-        <h1>Willkommen</h1>
-        <p class="subtitle">Öffne das Menü oben links, um deine Links zu sehen.</p>
+        <h1 data-lang-de="Willkommen" data-lang-en="Welcome">Willkommen</h1>
+        <p class="subtitle" data-lang-de="Wähle einen Link aus der Liste:" data-lang-en="Choose a link from the list:">Wähle einen Link aus der Liste:</p>
+        
+        <div id="button-container"></div>
+
         <footer class="copyright">
-            &copy; <span id="year"></span> Dein Name. Alle Rechte vorbehalten.
+            &copy; <span id="year"></span> Dein Name. <span data-lang-de="Alle Rechte vorbehalten." data-lang-en="All rights reserved.">Alle Rechte vorbehalten.</span>
         </footer>
     </main>
 
-    <script src="src-Database/MainSite-src/script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
 
