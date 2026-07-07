@@ -7,3 +7,5 @@
 <br>
 
 ![**Content-Creator**](https://dc.starcode-bom.abrdns.com/ContentCreator/)
+
+*copyright 2026 bombblingm, starcode. All rights reserved*
