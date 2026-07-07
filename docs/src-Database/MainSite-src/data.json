@@ -1,15 +1,15 @@
 [
     { 
-        "name": { "de": "Google Suche", "en": "Google Search" }, 
-        "url": "https://google.de" 
+        "name": { "de": "Content-Creator Rechtlinien", "en": "Content-Creator guidelines" }, 
+        "url": "https://dc.starcode-bom.abrdns.com/ContentCreator/" 
     },
     { 
-        "name": { "de": "Spiegel Nachrichten", "en": "Spiegel News" }, 
-        "url": "" 
+        "name": { "de": "Discord-server rechtlinien", "en": "Discord-Serverv guidelines" }, 
+        "url": "https://dc.starcode-bom.abrdns.com/guidelines/" 
     },
     { 
-        "name": { "de": "YouTube Videos", "en": "YouTube Videos" }, 
-        "url": "https://youtube.com" 
+        "name": { "de": "Kommt bald", "en": "Coming soon" }, 
+        "url": "about:about" 
     }
 ]
 
