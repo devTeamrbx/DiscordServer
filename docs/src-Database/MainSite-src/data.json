@@ -1,5 +1,15 @@
 [
-{ "name": "Google", "url": "https://google.de" },
-{ "name": "Spiegel", "url": "https://spiegel.de" },
-{ "name": "YouTube", "url": "https://youtube.com" }
+    { 
+        "name": { "de": "Google Suche", "en": "Google Search" }, 
+        "url": "https://google.de" 
+    },
+    { 
+        "name": { "de": "Spiegel Nachrichten", "en": "Spiegel News" }, 
+        "url": "" 
+    },
+    { 
+        "name": { "de": "YouTube Videos", "en": "YouTube Videos" }, 
+        "url": "https://youtube.com" 
+    }
 ]
+
